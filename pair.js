@@ -59,17 +59,17 @@ router.get('/', async (req, res) => {
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
 ┃𝐘𝐎𝐔 𝐀𝐑𝐄 𝐍𝐎𝐖 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃
-┃😇𝐏𝐎𝐏𝐊𝐈𝐃 𝐗𝐓𝐄𝐂𝐇😇
+😈 JEEPERS CREEPERS-XMD,😈
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 = 😇POPKID😇
+❶ || 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 = 😇 JEEPERS CREEPERS-XMD 😇
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || 𝐆𝐈𝐓𝐇𝐔𝐁 𝐋𝐈𝐍𝐊 = https://github.com/Popkiddevs
+❷ || 𝐆𝐈𝐓𝐇𝐔𝐁 𝐋𝐈𝐍𝐊 = https://github.com/lovertoxic/JEEPERS-CREEPERS-XMD-
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-𝐅𝐎𝐋𝐋𝐎𝐖 𝐌𝐘 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
-𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 http://wa.me/254111385747?
+𝐅𝐎𝐋𝐋𝐎𝐖 𝐌𝐘 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g
+𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄 http://wa.me/254717263689?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-😇*𝐏𝐎𝐏𝐊𝐈𝐃 𝐗𝐓𝐄𝐂𝐇*😇
+😇*JEEPERS CREEPERS-XMD*😇
 
 _𝐅𝐎𝐑𝐊 𝐀𝐍𝐃 𝐒𝐓𝐀𝐑 𝐌𝐘 𝐑𝐄𝐏𝐎_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
